@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on OneUFO</title>
+    <link>https://example.org/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on OneUFO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu系统软件的安装设置</title>
+      <link>https://example.org/2019/11/ubuntu%E7%B3%BB%E7%BB%9F%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/11/ubuntu%E7%B3%BB%E7%BB%9F%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E8%AE%BE%E7%BD%AE/</guid>
+      <description>&lt;h3 id=&#34;ubuntu系统下载&#34;&gt;Ubuntu系统下载：&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ubuntu.com/download/desktop&#34;&gt;https://ubuntu.com/download/desktop&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ubuntu系统安装后的设置&#34;&gt;Ubuntu系统安装后的设置：&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Ubuntu系统优化工具&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt install gnome-tweak-tool
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Ubuntu安装H.264解码器&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install gstreamer1.0-libav  
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu使用Git上传项目到Github中</title>
+      <link>https://example.org/2019/10/ubuntu%E4%BD%BF%E7%94%A8git%E4%B8%8A%E4%BC%A0%E9%A1%B9%E7%9B%AE%E5%88%B0github%E4%B8%AD/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2019/10/ubuntu%E4%BD%BF%E7%94%A8git%E4%B8%8A%E4%BC%A0%E9%A1%B9%E7%9B%AE%E5%88%B0github%E4%B8%AD/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;使用 git version 测试是否安装&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;如果没有安装，安装git命令：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get install git
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;设置git的user-name和email&#34;&gt;&lt;strong&gt;设置Git的user name和email:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;git config --global user.name &amp;quot;oneufo&amp;quot;
+git config --global user.email &amp;quot;oneufo.com@hotmail.com&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;查看是否已经有了ssh密钥：cd ~/.ssh 如果没有密钥则不会有此文件夹，有则备份删除&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
