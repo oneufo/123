@@ -7,7 +7,7 @@
  https://fpn.firefox.com
  
  
- KASPERSKY SECURE CONNECTION 
+ Kaspersky Secure Connection Free VPN 
  
  https://www.kaspersky.com/vpn-secure-connection
  
