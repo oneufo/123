@@ -15,6 +15,8 @@
 
 http://www.jspoo.com/vip.html
 
+www.tt27.tv  4627
+
 互联网安全资讯
 
 https://www.freebuf.com
