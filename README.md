@@ -53,6 +53,6 @@ https://speedify.com
 
 https://www.tunnelbear.com
 
-https://hide.me/
+https://hide.me
 
 
