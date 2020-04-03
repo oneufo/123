@@ -47,3 +47,12 @@ ________________________________________________________________________________
 
 https://protonvpn.com
 
+https://windscribe.com
+
+https://speedify.com
+
+https://www.tunnelbear.com
+
+https://hide.me/
+
+
