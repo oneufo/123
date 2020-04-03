@@ -55,4 +55,5 @@ https://www.tunnelbear.com
 
 https://hide.me
 
+https://s3.amazonaws.com/outline-vpn/index.html#/zh-CN/home
 
