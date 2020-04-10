@@ -54,6 +54,16 @@ https://speedify.com
 https://www.tunnelbear.com
 
 https://hide.me
+______________________________________________________________________________________________
+在 Linux 上安装 Outline
 
-https://s3.amazonaws.com/outline-vpn/index.html#/zh-CN/home
+我们现在支持通过 Applmage 在 Linux 桌面客户端上安装 Outline。在 getoutline.org 上下载二进制文件后：
 
+在命令行中输入以下命令，您将获得在 Linux 计算机上运行 Outline 的权限：
+chmod u+x Outline-Client.AppImage
+
+
+接下来，您可以双击图形用户界面 (GUI) 中的文件或在命令行中运行以下命令，从而安装或启动 Outline：
+./Outline-Client.AppImage
+
+https://getoutline.org______________________________________________________________________________________________
