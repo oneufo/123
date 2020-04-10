@@ -66,4 +66,4 @@ chmod u+x Outline-Client.AppImage
 接下来，您可以双击图形用户界面 (GUI) 中的文件或在命令行中运行以下命令，从而安装或启动 Outline：
 ./Outline-Client.AppImage
 
-https://getoutline.org______________________________________________________________________________________________
+https://getoutline.org
