@@ -15,6 +15,10 @@
 
 http://www.jspoo.com/vip.html
 
+https://jiexi.380k.com/?url=
+
+https://www.2ajx.com/vip.php?url=
+
 
 互联网安全资讯
 
