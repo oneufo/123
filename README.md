@@ -19,6 +19,9 @@ https://jiexi.380k.com/?url=
 
 https://www.2ajx.com/vip.php?url=
 
+http://jx.598110.com/index.php?url=
+
+
 
 互联网安全资讯
 
