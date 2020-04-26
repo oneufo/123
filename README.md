@@ -21,6 +21,11 @@ https://www.2ajx.com/vip.php?url=
 
 http://jx.598110.com/index.php?url=
 
+美剧
+http://xijing.tv
+
+文件分享
+https://cowtransfer.com
 
 
 互联网安全资讯
