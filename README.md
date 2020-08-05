@@ -1,5 +1,12 @@
 ﻿# https://oneufo.com/123
  
+ Linux
+cp -Rf /home/user1/* /root/temp/
+将 /home/user1目录下的所有东西拷到/root/temp/下而不拷贝user1目录本身。
+
+临时内容分享网站:
+https://paste.ubuntu.com
+ 
  
  Firefox Private Network
  
