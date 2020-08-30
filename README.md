@@ -41,8 +41,6 @@ https://www.playm3u8.cn/jiexi.php?url=
 美剧
 http://xijing.tv
 
-文件分享
-https://cowtransfer.com
 
 Youtube视频下载
 
@@ -84,15 +82,6 @@ centos 系统安装 Curl 方法: yum update -y && yum install curl -y
 ____________________________________________________________________________________________
 
 
-https://protonvpn.com
-
-https://windscribe.com
-
-https://speedify.com
-
-https://www.tunnelbear.com
-
-https://hide.me
 ______________________________________________________________________________________________
 在 Linux 上安装 Outline
 
